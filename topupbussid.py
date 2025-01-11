@@ -1,4 +1,5 @@
-#ENCODED BY : VIECEchannel
+#ENCODED BY : MUMIT ISLAM HIMU
+#ENCRYPTION : Py3 MARSHAL+ZLIB+B64
 #GITHUB : https://github.com/MUMIT-404-CYBER
 #----------------------------------------------
 import marshal, base64, zlib
