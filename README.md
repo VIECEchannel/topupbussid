@@ -16,9 +16,9 @@ pip install pyfiglet
 
 pip install pystyle
 
-git clone https://github.com/VIECEchannel/bussid
+git clone https://github.com/VIECEchannel/topupbussid
 
-cd bussid
+cd topubussid
 
 python topupbussid.py
 
